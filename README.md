@@ -189,4 +189,4 @@ Top student:          Lesedi Modikwe (97%)
 
 - Rewrite the async processing with Promises and `async/await` (the next step after callbacks)
 - Save students to a file or `localStorage` so the data survives a restart
-- Add a form in the browser view to register students from the page
+- Add a form in the browser view to register students from the page.
